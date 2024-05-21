@@ -14,6 +14,12 @@
 <a href="https://www.youtube.com/watch?v=ihn_z0QNYa4"><b>Reel video.</b></a>
 <br><br>
 
+<h3>Fallen Warrior game character model</h3>
+<img src="Content/fallenwarriorcover.png" alt="Fallen Warrior Cover" width="480" height="270"><br>
+<a href="https://www.artstation.com/artwork/lDogqG"><b>Artstation presentation.</b></a><br>
+<a href="https://samuelbadman.artstation.com/pages/making-of-fallen-warrior"><b>Making Of process breakdown.</b></a>
+<br><br>
+
 <h3>Competition game</h3>
 <img src="Content/CompetitionGameScreenshot.png" alt="Student demo reel" width="480" height="270"><br>
 Created for the <a href="https://gradsingames.com/game-dev-challenges/search-for-a-star/"><b>Search For a Star competition</b></a> with Unreal Engine 4 utilising Blueprint visual scripting and C++.
