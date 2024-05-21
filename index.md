@@ -5,7 +5,7 @@
 <a href="https://youtube.com/@samuel_badman"><b>YouTube</b></a> |
 <a href="https://github.com/samuelbadman"><b>GitHub</b></a> |
 <a href="https://artstation.com/samuelbadman"><b>ArtStation</b></a> |
-<a href="https://samuelbadman.com"><b>Website</b></a><br>
+<a href="https://samuelbadman.com"><b>Website</b></a><br><br>
 
 <h2>Portfolio</h2>
 
