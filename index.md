@@ -1,5 +1,12 @@
 <div align="center">
 
+<h2>Links</h2>
+<a href="mailto: samuelbadman@outlook.com">Contact email: <b>samuelbadman@outlook.com</b></a><br>
+<a href="https://youtube.com/@samuel_badman"><b>YouTube</b></a> |
+<a href="https://github.com/samuelbadman"><b>GitHub</b></a> |
+<a href="https://artstation.com/samuelbadman"><b>ArtStation</b></a> |
+<a href="https://samuelbadman.com"><b>Website</b></a><br>
+
 <h2>Portfolio</h2>
 
 <h3>Game technology programming reel</h3>
@@ -24,12 +31,5 @@ A custom kinematic pawn controller component that implements motion mechanics fo
 <a href="https://www.youtube.com/watch?v=7_GY_lDoqdk"><b>Demo video.</b></a><br>
 <a href="https://github.com/samuelbadman/CustomKinematicPawnController"><b>Github repository.</b></a>
 <br><br>
-
-<h2>Links</h2>
-<a href="mailto: samuelbadman@outlook.com">Contact email: <b>samuelbadman@outlook.com</b></a><br>
-<a href="https://youtube.com/@samuel_badman"><b>YouTube.</b></a><br>
-<a href="https://github.com/samuelbadman"><b>GitHub.</b></a><br>
-<a href="https://artstation.com/samuelbadman"><b>ArtStation.</b></a><br>
-<a href="https://samuelbadman.com"><b>Website.</b></a><br>
   
 </div>
