@@ -14,28 +14,17 @@
 <a href="https://www.youtube.com/watch?v=ihn_z0QNYa4"><b>Reel video.</b></a>
 <br><br>
 
-<h3>Fallen Warrior game character model</h3>
-<img src="Content/fallenwarriorcover.png" alt="Fallen Warrior Cover" width="480" height="270"><br>
-<a href="https://www.artstation.com/artwork/lDogqG"><b>Artstation presentation.</b></a><br>
-<a href="https://samuelbadman.artstation.com/pages/making-of-fallen-warrior"><b>Making Of process breakdown.</b></a>
+<h3>Custom kinematic pawn controller</h3>
+<img src="Content/CKPCScreenshot.png" alt="Game technology programming reel" width="480" height="270"><br>
+A custom kinematic pawn controller component that implements motion mechanics for a third person pawn. Implemented in Unreal Engine 5 with C++.<br>
+<a href="https://www.youtube.com/watch?v=7_GY_lDoqdk"><b>Demo video.</b></a><br>
+<a href="https://github.com/samuelbadman/CustomKinematicPawnController"><b>Github repository.</b></a>
 <br><br>
 
 <h3>Competition game</h3>
 <img src="Content/CompetitionGameScreenshot.png" alt="Student demo reel" width="480" height="270"><br>
 Created for the <a href="https://gradsingames.com/game-dev-challenges/search-for-a-star/"><b>Search For a Star competition</b></a> with Unreal Engine 4 utilising Blueprint visual scripting and C++.
 <a href="https://www.youtube.com/watch?v=N8DjZlzChRs"><b>Gameplay video</b></a>. Download and play from <a href="https://samuelbadman.itch.io/spy-league-training"><b>Itch.</b></a> Project and source code files are available from this <a href="https://github.com/samuelbadman/CompetitionGame"><b>Github repository.</b></a>
-<br><br>
-
-<h3>Game jam gameplay reel</h3>
-<img src="Content/GameJamScreenshot.png" alt="Game jam gameplay reel" width="480" height="270"><br>
-<a href="https://www.youtube.com/watch?v=Wr3bmVjTBcg"><b>Reel video.</b></a>
-<br><br>
-
-<h3>Custom kinematic pawn controller</h3>
-<img src="Content/CKPCScreenshot.png" alt="Game technology programming reel" width="480" height="270"><br>
-A custom kinematic pawn controller component that implements motion mechanics for a third person pawn. Implemented in Unreal Engine 5 with C++.<br>
-<a href="https://www.youtube.com/watch?v=7_GY_lDoqdk"><b>Demo video.</b></a><br>
-<a href="https://github.com/samuelbadman/CustomKinematicPawnController"><b>Github repository.</b></a>
 <br><br>
   
 </div>
