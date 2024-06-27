@@ -12,7 +12,7 @@
 <h3>Character animation rig and runtime IK implementation</h3>
 <img src="Content/RigCoverImage.png" alt="Character animation rig and runtime IK implementation screenshot" width="480" height="270"><br>
 <a href="https://www.youtube.com/watch?v=e_DwuUKIaOk"><b>Character control rig features video</b></a> showcasing the rig developed in Blender 4 to create character animations for video games.<br>
-<a href="https://www.youtube.com/watch?v=I_unipcvsho"><b>Runtime IK demo video</b></a>showcasing a runtime inverse kinematic implementation to implement a dynamic foot placement system. The system uses a two bone IK solve for limb IK.
+<a href="https://www.youtube.com/watch?v=I_unipcvsho"><b>Runtime IK demo video</b></a> showcasing a runtime inverse kinematic implementation to implement a dynamic foot placement system. The system uses a two bone IK solve for limb IK.
 <br><br>
 
 <h3>PC/Console real-time game character model and skeleton</h3>
