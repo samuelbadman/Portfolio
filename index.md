@@ -11,6 +11,7 @@
 <h2>Portfolio</h2>
 
 <h3>Leviathan Engine (3D video game engine)</h3>
+<img src="Content/LeviathanEngineCover.png" alt="Real-time game character model and skeleton" width="480" height="270"><br>
 Leviathan Engine is an in development 3D video game engine written in C++.<br>
 <a href="https://github.com/samuelbadman/LeviathanEngine"><b>Source code.</b></a><br>
 <a href="https://www.youtube.com/playlist?list=PLZsLoVvciF_HAX5hRyasBNsMK_ugRJwrf"><b>Feature video playlist.</b></a><br>
