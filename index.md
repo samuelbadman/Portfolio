@@ -40,4 +40,8 @@ Created for the <a href="https://gradsingames.com/game-dev-challenges/search-for
 <a href="https://www.youtube.com/watch?v=N8DjZlzChRs"><b>Gameplay video</b></a>. Download and play from <a href="https://samuelbadman.itch.io/spy-league-training"><b>Itch.</b></a> Project and source code files are available on <a href="https://github.com/samuelbadman/CompetitionGame"><b>Github.</b></a>
 <br><br>
 
+<h3>Game Jam Submissions</h3>
+GameMakers ToolKit 2024 Game Jam - <a href="https://spidelnick.itch.io/the-uncertainty-principle"><b>The Uncertainty Principle</b></a>
+<br><br>
+
 </div>
