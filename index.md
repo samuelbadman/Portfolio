@@ -19,7 +19,7 @@ GameMakers ToolKit 2024 Game Jam - <a href="https://spidelnick.itch.io/the-uncer
 University project created by a team of around 30 people in the Unity engine for PC. I was part of the sub-team responsible for implementing online networked gameplay code. The game is an online multiplayer game featuring first person shooter gameplay that sees two teams challenge each other for control of key areas of the island. Players are able to transform into a jet aircraft to quickly reach areas of the island and command AI units. <a href="https://www.youtube.com/watch?v=I0o2VRTXH3c"><b>Game trailer.</b></a>
 <br><br>
 
-<h3>Leviathan Engine (3D video game engine)</h3>
+<h3>Leviathan Engine</h3>
 <img src="Content/LeviathanEngineCover.png" alt="Real-time game character model and skeleton" width="480" height="270"><br>
 Leviathan Engine is a custom 3D video game engine written in C++ featuring a 3D forward renderer with Direct3D 11.<br>
 <a href="https://github.com/samuelbadman/LeviathanEngine"><b>Source code.</b></a><br>
