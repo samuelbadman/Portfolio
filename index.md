@@ -28,7 +28,7 @@ Leviathan Engine is a custom 3D video game engine written in C++ featuring a 3D 
 
 <h3>Custom kinematic pawn controller</h3>
 <img src="Content/CKPCScreenshot.png" alt="Game technology programming reel" width="480" height="270"><br>
-A custom kinematic pawn controller component that implements motion mechanics for a third person pawn. Implemented in Unreal Engine 5 with C++.<br>
+A custom kinematic pawn controller component that implements locomotion mechanics for a third person character. Implemented in Unreal Engine 5 with C++.<br>
 <a href="https://www.youtube.com/watch?v=7_GY_lDoqdk"><b>Demo video.</b></a><br>
 <a href="https://github.com/samuelbadman/CustomKinematicPawnController"><b>Github repository.</b></a>
 <br><br>
