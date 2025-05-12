@@ -49,4 +49,9 @@ University project created by a team of around 30 people in the Unity engine for
 Character model and skeleton asset created for and rendered in Unreal Engine 5. <a href="https://www.artstation.com/artwork/lDogqG"><b>Presentation</b></a> of the asset and a <a href="https://samuelbadman.artstation.com/pages/making-of-fallen-warrior"><b>Making of</b></a> process breakdown is available at the links.<br>
 <br><br>
 
+<h3>Mannequin animation rig asset</h3>
+<img src="Content/MannequinRigCover.png" alt="Mannequin animation rig asset" width="480" height="270"><br>
+Mannequin animation rig asset created to be used for prototyping gameplay animation and technical animation implementations inside a game engine. <a href="https://www.artstation.com/artwork/AZK2Ey"><b>Presentation</b></a> of the asset and a <a href="https://samuelbadman.artstation.com/pages/making-of-mannequin-animation-rig"><b>Making of</b></a> process breakdown is available at the links.<br>
+<br><br>
+
 </div>
