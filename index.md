@@ -26,9 +26,23 @@ Leviathan Engine is a custom 3D video game engine written in C++ featuring a 3D 
 <a href="https://www.youtube.com/watch?v=ihn_z0QNYa4"><b>Reel video.</b></a>
 <br><br>
 
+<h3>Direct3D 12/DirectX Raytracing real-time GPU raytraced hard shadows</h3>
+<img src="Content/DXRShadowsCover.png" alt="Direct3D 12/DirectX raytracing hard shadows" width="480" height="270"><br>
+Hard shadows rendered in real-time using the GPU to raytrace scene geometry. Runs on Windows platform and uses Direct3D 12 and DirectX Raytracing APIs.<br>
+<a href="https://github.com/samuelbadman/DXR_raytraced_hard_shadows"><b>Source code.</b></a><br>
+<a href="https://www.youtube.com/watch?v=RjFkShubgc8"><b>Demo video.</b></a><br>
+<br><br>
+
+<h3>Retro inspired FPS rendered with Vulkan</h3>
+<img src="Content/RetroFPSCover.png" alt="Retro FPS Vulkan" width="480" height="270"><br>
+Retro inspired first person shooter game created for the Windows platform and rendered with Vulkan.<br>
+<a href="https://github.com/samuelbadman/Retro_fps_vulkan/tree/main"><b>Source code.</b></a><br>
+<a href="https://www.youtube.com/watch?v=3NXgvVLPRhQ"><b>Demo video.</b></a><br>
+<br><br>
+
 <h3>Custom kinematic pawn controller</h3>
 <img src="Content/CKPCScreenshot.png" alt="Game technology programming reel" width="480" height="270"><br>
-A custom kinematic pawn controller component that implements locomotion mechanics for a third person character. Implemented in Unreal Engine 5 with C++.<br>
+Custom kinematic pawn controller component that implements locomotion mechanics for a third person character. Implemented in Unreal Engine 5 with C++.<br>
 <a href="https://www.youtube.com/watch?v=7_GY_lDoqdk"><b>Demo video.</b></a><br>
 <a href="https://github.com/samuelbadman/CustomKinematicPawnController"><b>Github repository.</b></a>
 <br><br>
