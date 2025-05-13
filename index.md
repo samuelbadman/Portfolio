@@ -55,7 +55,7 @@ Created for the <a href="https://gradsingames.com/game-dev-challenges/search-for
 
 <h3>Online multiplayer game</h3>
 <img src="Content/OnlineGameCover.png" alt="Online multiplayer game cover image" width="480" height="270"><br>
-University project created by a team of around 30 people in the Unity engine for PC. I was part of the sub-team responsible for implementing online networked gameplay code. The game is an online multiplayer game featuring first person shooter gameplay that sees two teams challenge each other for control of key areas of the island. Players are able to transform into a jet aircraft to quickly reach areas of the island and command AI units. <a href="https://www.youtube.com/watch?v=I0o2VRTXH3c"><b>Game trailer.</b></a>
+University project created by a team of around 30 people in the Unity engine with C# for PC. I was part of the sub-team responsible for implementing online networked gameplay code. The game is an online multiplayer game featuring first person shooter gameplay that sees two teams challenge each other for control of key areas of the island. Players are able to transform into a jet aircraft to quickly reach areas of the island and command AI units. <a href="https://www.youtube.com/watch?v=I0o2VRTXH3c"><b>Game trailer.</b></a>
 <br><br>
 
 <h3>PC/Console real-time 3D game character asset</h3>
