@@ -7,7 +7,7 @@
 <a href="https://github.com/samuelbadman"><b>GitHub</b></a> |
 <a href="https://artstation.com/samuelbadman"><b>ArtStation</b></a> |
 <a href="https://youtube.com/@samuel_badman"><b>YouTube</b></a> |
-<a href="https://linkedin.com/in/samuel-badman-b9423b371"><b>Linkedin</b></a> |
+<a href="https://linkedin.com/in/samuelbadmangames"><b>Linkedin</b></a> |
 <a href="https://samuelbadman.com"><b>Personal Website</b></a><br>
 <br><br>
 
