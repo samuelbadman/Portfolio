@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Content/ProfilePhotoSmall.png" alt="Profile photo" width="145" height="193"><br>
+
 <h2>Links</h2>
 <a href="mailto: samuelbadman@outlook.com">Contact email: <b>samuelbadman@outlook.com</b></a><br>
 <a href="https://github.com/samuelbadman"><b>GitHub</b></a> |
