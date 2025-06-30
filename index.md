@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Content/ProfilePhotoSmall.png" alt="Profile photo" width="143" height="144"><br><br>
+<img src="Content/ProfilePhotoSmall.png" alt="Profile photo" width="288" height="288"><br><br>
 
 <h2>Links</h2>
 <a href="mailto: samuelbadman@outlook.com">Contact email: <b>samuelbadman@outlook.com</b></a><br>
