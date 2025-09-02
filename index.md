@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="Content/ProfilePhotoRound_500.png" alt="Portrait" width="189" height="190"><br>
 Based in the United Kingdom<br><br>
 
 <h2>Links</h2>
