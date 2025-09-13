@@ -35,14 +35,14 @@ Custom kinematic pawn controller component that implements locomotion mechanics 
 <a href="https://www.youtube.com/watch?v=ihn_z0QNYa4"><b>Reel video</b></a>.
 <br><br>
 
-<h3>Direct3D 12/DirectX Raytracing real-time GPU raytraced hard shadows</h3>
-<img src="Content/DXRShadowsCover.png" alt="Direct3D 12/DirectX raytracing hard shadows" width="480" height="270"><br>
-Hard shadows rendered in real-time using the GPU to raytrace scene geometry. Runs on Windows platform and uses Direct3D 12 and DirectX Raytracing APIs. <a href="https://github.com/samuelbadman/DXR_raytraced_hard_shadows"><b>Source code</b></a> and <a href="https://www.youtube.com/watch?v=RjFkShubgc8"><b>demo video</b></a>.
-<br><br>
-
 <h3>Retro inspired FPS rendered with Vulkan</h3>
 <img src="Content/RetroFPSCover.png" alt="Retro FPS Vulkan" width="480" height="270"><br>
 Retro inspired first person shooter game created for the Windows platform and rendered with Vulkan. <a href="https://github.com/samuelbadman/Retro_fps_vulkan/tree/main"><b>Source code</b></a> and <a href="https://www.youtube.com/watch?v=3NXgvVLPRhQ"><b>demo video</b></a>.
+<br><br>
+
+<h3>Direct3D 12/DirectX Raytracing real-time GPU raytraced hard shadows</h3>
+<img src="Content/DXRShadowsCover.png" alt="Direct3D 12/DirectX raytracing hard shadows" width="480" height="270"><br>
+Hard shadows rendered in real-time using the GPU to raytrace scene geometry. Runs on Windows platform and uses Direct3D 12 and DirectX Raytracing APIs. <a href="https://github.com/samuelbadman/DXR_raytraced_hard_shadows"><b>Source code</b></a> and <a href="https://www.youtube.com/watch?v=RjFkShubgc8"><b>demo video</b></a>.
 <br><br>
 
 <h3>Competition game</h3>
