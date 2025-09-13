@@ -40,7 +40,10 @@ Retro inspired first person shooter game created for the Windows platform and re
 Custom kinematic pawn controller component that implements locomotion mechanics for a third person character. Implemented in Unreal Engine 5 with C++. <a href="https://github.com/samuelbadman/CustomKinematicPawnController"><b>Source code</b></a> and <a href="https://www.youtube.com/watch?v=7_GY_lDoqdk"><b>demo video</b></a>.
 <br><br>
 
-
+<h3>Real time IK foot placement</h3>
+<img src="Content/CKPCScreenshot.png" alt="Game technology programming reel" width="480" height="270"><br>
+Foot placement system for characters using real time IK solving. Implemented in Unreal Engine 5 with C++. <a href="https://github.com/samuelbadman/IKFootPlacement"><b>Source code</b></a> and <a href="https://www.youtube.com/watch?v=117fFG6Wtn0"><b>demo video</b></a>.
+<br><br>
 
 <h3>Competition game</h3>
 <img src="Content/CompetitionGameScreenshot.png" alt="Competition Game Screenshot" width="480" height="270"><br>
