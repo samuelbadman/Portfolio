@@ -3,7 +3,7 @@
 <img src="Content/ProfilePhotoRound_500.png" alt="Portrait" width="189" height="190"><br>
 Based in Bristol, United Kingdom<br><br>
 
-<h2>Links</h2>
+<h2>Socials</h2>
 <a href="https://github.com/samuelbadman"><b>GitHub</b></a> |
 <a href="https://artstation.com/samuelbadman"><b>ArtStation</b></a> |
 <a href="https://youtube.com/@samuel_badman"><b>YouTube</b></a> |
