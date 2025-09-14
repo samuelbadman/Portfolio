@@ -1,2 +1,2 @@
-# PersonalWebsite
-This repository creates the website at [samuelbadman.com](https://samuelbadman.com/).
+# Portfolio
+This repository creates the portfolio site at [samuelbadman.com](https://samuelbadman.com/).
