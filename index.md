@@ -8,7 +8,7 @@ Based in Bristol, United Kingdom<br><br>
 <a href="https://artstation.com/samuelbadman"><b>ArtStation</b></a> |
 <a href="https://youtube.com/@samuel_badman"><b>YouTube</b></a> |
 <a href="https://linkedin.com/in/samuelbadmandev"><b>Linkedin</b></a> |
-<a href="https://samuelbadman.com"><b>Website</b></a><br>
+<a href="https://samuelbadman.com"><b>Portfolio</b></a><br>
 <br>
 <a href="mailto: samuelbadman@outlook.com">Contact email: <b>samuelbadman@outlook.com</b></a><br>
 <br><br>
