@@ -32,7 +32,7 @@ Custom kinematic pawn controller component that implements locomotion mechanics 
 
 <h3>Game technology programming reel</h3>
 <img src="Content/GameTechReelScreenshot.png" alt="Game technology programming reel" width="480" height="270"><br>
-<a href="https://www.youtube.com/watch?v=ihn_z0QNYa4"><b>Reel video</b></a>.
+<a href="https://www.youtube.com/watch?v=ihn_z0QNYa4"><b>Highlight reel</b></a> showing some of my undergraduate work.
 <br><br>
 
 <h3>Retro inspired FPS rendered with Vulkan</h3>
