@@ -16,7 +16,7 @@ Based in Bristol, United Kingdom<br><br>
 <h2>Portfolio</h2>
 
 <h3>Leviathan Engine</h3>
-<img src="Content/LeviathanEngineCover.png" alt="Leviathan Engine" width="480" height="270"><br>
+<img src="Content/LeviathanEngineCover.png" alt="Leviathan Engine" width="256" height="265"><br>
 Leviathan Engine is in development 3D game engine tools used to build and run games. <a href="https://github.com/samuelbadman/leviathan"><b>Source code</b></a> and <a href="https://www.youtube.com/playlist?list=PLZsLoVvciF_EJU5ueWZNFb4inzbK4gmgn"><b>development video playlist</b></a>.
 <br><br>
 
