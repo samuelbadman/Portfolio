@@ -23,6 +23,7 @@ Character model and skeleton asset created for and rendered in Unreal Engine 5. 
 <h3>Horror scene lighting</h3>
 <img src="Content/HorrorLightingCover.png" alt="Horror scene lighting" width="480" height="250"><br>
 I took a ready made scene from the marketplace and removed all lighting from it. I then recreated lighting for the scene and added first person gameplay and audio effects aiming for a horror mood inspired by the Resident Evil video game series. The scene is rendered and lit in Unreal Engine 5 using dynamic lights and Lumen global illumination. <a href="https://www.artstation.com/artwork/EzGYE0"><b>Artstation page</b></a> and <a href="https://www.youtube.com/watch?v=XWYu0-a3uN0"><b>video playthrough</b></a>.
+<br><br>
 
 <h3>Game technology programming reel</h3>
 <img src="Content/GameTechReelScreenshot.png" alt="Game technology programming reel" width="480" height="270"><br>
