@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="Content/ProfilePhotoRound_500.png" alt="Portrait" width="189" height="190"><br>
-Bristol, UK<br><br>
+(C/C++, hlsl/glsl) programmer, Unreal Engine developer, 3D artist and animator <br>
+Bristol, United Kingdom<br><br>
 
 <h2>Socials</h2>
 <a href="https://github.com/samuelbadman"><b>GitHub</b></a> |
@@ -42,7 +43,7 @@ Retro inspired first person shooter game created for the Windows platform and re
 
 <h3>Leviathan Engine</h3>
 <img src="Content/LeviathanEngineCover.png" alt="Leviathan Engine" width="256" height="265"><br>
-Leviathan Engine is in development 3D game engine tools used to build and run games. <a href="https://github.com/samuelbadman/leviathan"><b>Source code</b></a> and <a href="https://www.youtube.com/playlist?list=PLZsLoVvciF_EJU5ueWZNFb4inzbK4gmgn"><b>development video playlist</b></a>.
+Leviathan Engine is personal in development 3D game engine tools used to build and run games. <a href="https://github.com/samuelbadman/leviathan"><b>Source code</b></a> and <a href="https://www.youtube.com/playlist?list=PLZsLoVvciF_EJU5ueWZNFb4inzbK4gmgn"><b>development video playlist</b></a>.
 <br><br>
 
 <h3>Real time IK foot placement</h3>
@@ -58,11 +59,6 @@ Custom kinematic pawn controller component that implements locomotion mechanics 
 <h3>Competition game</h3>
 <img src="Content/CompetitionGameScreenshot.png" alt="Competition Game Screenshot" width="480" height="270"><br>
 Created for the <a href="https://gradsingames.com/game-dev-challenges/search-for-a-star/"><b>Search For a Star competition</b></a> with Unreal Engine 4 utilising Blueprint visual scripting and C++. The project was awarded the one to watch award. <a href="https://www.youtube.com/watch?v=N8DjZlzChRs"><b>Gameplay video</b></a>. Download and play from <a href="https://samuelbadman.itch.io/spy-league-training"><b>Itch</b></a>. Unreal project and source code files are available <a href="https://github.com/samuelbadman/CompetitionGame"><b>here</b></a>.
-<br><br>
-
-<h3>Online multiplayer game</h3>
-<img src="Content/OnlineGameCover.png" alt="Online multiplayer game cover image" width="480" height="270"><br>
-University project created by a team of around 30 people in the Unity engine with C# for PC. I was part of the sub-team responsible for implementing online networked gameplay code. The game is an online multiplayer game featuring first person shooter gameplay that sees two teams challenge each other for control of key areas of the island. Players are able to transform into a jet aircraft to quickly reach areas of the island and command AI units. <a href="https://www.youtube.com/watch?v=I0o2VRTXH3c"><b>Gameplay trailer video</b></a>.
 <br><br>
 
 </div>
