@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="Content/ProfilePhotoRound_500.png" alt="Portrait" width="189" height="190"><br>
-(C/C++, hlsl/glsl) programmer, Unreal Engine developer, 3D artist and animator <br>
+C/C++, hlsl/glsl programmer, Unreal Engine, 3D artist & animator <br>
 Bristol, United Kingdom<br><br>
 
 <h2>Socials</h2>
