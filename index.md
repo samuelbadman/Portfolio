@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="Content/ProfilePhotoRound_500.png" alt="Portrait" width="189" height="190"><br>
-Games Technology Graduate<br>
+Games Technology Graduate<br><br>
 
 <a href="https://linkedin.com/in/samuelbadman-dev"><b>Linkedin</b></a><br>
 <a href="https://youtube.com/@samuel_badman"><b>YouTube</b></a><br>
