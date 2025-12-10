@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="Content/ProfilePhotoRound_500.png" alt="Portrait" width="189" height="190"><br>
 Games Technology Graduate<br>
 
 <a href="https://linkedin.com/in/samuelbadman-dev"><b>Linkedin</b></a><br>
