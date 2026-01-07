@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="Content/Profile_photo_flat_512.png" alt="Portrait" width="190" height="190"><br>
-Junior 3D Technical Generalist | C/C++ | HLSL/GLSL | Unreal Engine | Modelling | Texturing | Rigging | Animating | Lighting<br><br>
+Junior 3D Technical Generalist | C/C++ | HLSL/GLSL | Unreal Engine | Modelling | Texturing | Rigging | Animating | Lighting<br>
+Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b></a><br><br>
 
 <a href="https://samuelbadman.com"><b>SHOWREEL (under development)</b></a><br><br>
 
