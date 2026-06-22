@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="Content/Profile_Photo_512.png" alt="Portrait" width="190" height="190"><br>
-3D Generalist, C++ / HLSL / GLSL Programmer, Unreal Engine<br><br>
+3D Generalist, C / C++ / HLSL / GLSL Programmer, Unreal Engine<br><br>
 3D art , animation and programming skills in real time environments.<br>
 Bring a breadth of artistic and technical knowledge to solve problems across real time pipelines.<br><br>
 <a href="https://linkedin.com/in/sbadman" target="_blank" rel="noopener noreferrer"><b>Linkedin</b></a><br>
